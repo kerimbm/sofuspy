@@ -1,0 +1,1 @@
+web: paste fbapp:app
