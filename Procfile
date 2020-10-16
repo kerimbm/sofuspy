@@ -1,1 +1,1 @@
-web: paste fbapp:app
+web: python bottle_server.py
